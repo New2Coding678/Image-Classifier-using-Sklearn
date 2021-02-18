@@ -1,1 +1,1 @@
-# Image-Classifier-using-Sklearn
+# Mini-Project
